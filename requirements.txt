@@ -1,0 +1,16 @@
+# Django ChatterBot Terminal Chat Project
+# Requirements file for Python dependencies
+
+# Core framework for web development and ORM functionality
+Django>=4.0.0
+
+# Machine learning conversational dialog engine
+ChatterBot>=1.0.8
+
+# ChatterBot corpus for training data
+chatterbot-corpus>=1.2.0
+
+# Additional dependencies for ChatterBot functionality
+PyYAML>=5.4.0
+python-dateutil>=2.8.0
+spacy>=3.4.0
